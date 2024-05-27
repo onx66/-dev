@@ -12,4 +12,6 @@ stash uygulaması diye bir sey
 
 - test 1
 
+- stash 1
+
 
